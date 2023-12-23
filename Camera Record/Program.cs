@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Camera_Record
+namespace u64imagecapture
 {
     static class Program
     {

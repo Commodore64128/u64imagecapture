@@ -1,4 +1,4 @@
-﻿namespace Camera_Record
+﻿namespace u64imagecapture
 {
     partial class Form1
     {
@@ -84,7 +84,7 @@
             // 
             // videoSourcePlayer1
             // 
-            this.videoSourcePlayer1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            this.videoSourcePlayer1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
             | System.Windows.Forms.AnchorStyles.Right)));
             this.videoSourcePlayer1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(125)))), ((int)(((byte)(125)))), ((int)(((byte)(125)))));
             this.videoSourcePlayer1.Location = new System.Drawing.Point(12, 71);

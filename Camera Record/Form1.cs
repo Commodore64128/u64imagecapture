@@ -12,7 +12,7 @@ using AForge.Imaging.Filters;
 using System.Runtime.InteropServices;
 
 
-namespace Camera_Record
+namespace u64imagecapture
 {
     public partial class Form1 : Form
     {
