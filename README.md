@@ -1,3 +1,1 @@
-Camera capture C#
-
-For complete tutorial you can visit my website https://camellabs.com/
+Simple webcam / bmp picture capture/converter for U64.  (image data is just a hires bin file)
